@@ -1,0 +1,23 @@
+{
+  "name": "meetup",
+  "version": "1.0.0",
+  "description": "Helps arrange events such as sport, food, and entertainment meetups.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fairnightzz/Meetup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fairnightzz/Meetup/issues"
+  },
+  "homepage": "https://github.com/fairnightzz/Meetup#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "eslint": "^7.8.1"
+  }
+}
